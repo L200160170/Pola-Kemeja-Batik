@@ -45,6 +45,7 @@ Dengan ketentuan kantong : jika dalam pencarian kantong tidak memiliki motif mak
 </p>
 </br>
 </br>
+
 ## Permasalahannya
 <p>
 1.Untuk ukuran kemeja, sebaiknya bagaimana ya pak?. Menggunakan ukuran badan asli dari pengguna, atau  di beri ukuran misal (S, M, L, XL). Kalau menggunakan ukuran badan asli , harus menggambar dulu pola nya sesuai inputan user. Sedangkan untuk ukuran (S, M, L, XL) kita bisa menggunakan template pola kemeja yang sudah disiapkan.
