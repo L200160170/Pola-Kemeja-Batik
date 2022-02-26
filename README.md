@@ -11,7 +11,7 @@ Sementara itu untuk back end akan menggunakan openCV(template matching) python y
 ## Video penggunaan aplikasi
 <p align ="center">
  
-https://user-images.githubusercontent.com/45233368/155824022-ea8df08f-02d8-4231-b24b-4e46fb94269b.mp4
+ https://user-images.githubusercontent.com/45233368/155824022-ea8df08f-02d8-4231-b24b-4e46fb94269b.mp4
   
 </p>
 </br>
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/45233368/155824022-ea8df08f-02d8-4231-
  - Belum menampilkan hasil pemrosesan
 
 </p>
-
+</br>
 ## Rancangan penentuan bagian baju
 
 <p align ="center">
@@ -43,7 +43,8 @@ https://user-images.githubusercontent.com/45233368/155824022-ea8df08f-02d8-4231-
 </p><p>Dan untuk kantongnya opsional bisa memakai yang kotak seperti di rancangan atau memakai kantong paspol seperti gambar di desain hasil jadi. 
 Dengan ketentuan kantong : jika dalam pencarian kantong tidak memiliki motif maka menggungakan paspol (bebas tidak harus bermotif)
 </p>
-
+</br>
+</br>
 ## Permasalahannya
 <p>
 1.Untuk ukuran kemeja, sebaiknya bagaimana ya pak?. Menggunakan ukuran badan asli dari pengguna, atau  di beri ukuran misal (S, M, L, XL). Kalau menggunakan ukuran badan asli , harus menggambar dulu pola nya sesuai inputan user. Sedangkan untuk ukuran (S, M, L, XL) kita bisa menggunakan template pola kemeja yang sudah disiapkan.
