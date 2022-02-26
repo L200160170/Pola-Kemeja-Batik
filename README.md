@@ -25,8 +25,8 @@ jadi pertama tentukan bagian mana yang akan diambil untuk dicari yang memiliki g
 6 Untuk sleeve placket bisa bebas yang penting memiliki motif sama
 </p><p>
 * keterangan : setelah menemukan motif yang sama dan menentukan bagian pola, maka bagian yang sudah ketemu(diambil) maka diblok warna agar tidak bisa terdeteksi atau terpilih lagi pada bagian kemeja yang lain.
-
 </p>
+
 ## Keterangan sourcode diatas
 <p>folder build tidak saya tambahkan karena memiliki ukuran yang cukup besar, hanya folder build pada umumnya, cuma ada penambahan pakcage yang dapat dilihat di pubspec.yaml</p>
 
