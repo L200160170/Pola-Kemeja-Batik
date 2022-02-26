@@ -45,6 +45,7 @@ jadi pertama tentukan bagian mana yang akan diambil untuk dicari yang memiliki g
 
 </p>
 </br>
+
 ## Rancangan penentuan bagian baju
 
 <p align ="center">
