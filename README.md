@@ -8,6 +8,9 @@ Akan ada penambahan fitur :
 
 Sementara itu untuk back end akan menggunakan openCV(template matching) python yang dihubungkan menggunakan heroku. 
 
+## Keterangan sourcode diatas
+<p>folder build tidak saya tambahkan karena memiliki ukuran yang cukup besar, hanya folder build pada umumnya, cuma ada penambahan pakcage yang dapat dilihat di pubspec.yaml</p>
+
 ## Video penggunaan aplikasi
 <p align ="center">
  
