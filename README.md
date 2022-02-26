@@ -10,8 +10,7 @@ Sementara itu untuk back end akan menggunakan openCV(template matching) python y
 
 ## Video penggunaan aplikasi
 <p align ="center">
-  <video controls>
-    <source src="readme/Screenrecorder.mp4" type="video/mp4">
+ <video src="readme/Screenrecorder.mp4" >
   </video>
   </br>
  </p>
